@@ -1,6 +1,5 @@
 # PsychologicallyConditioned-Mobility
 
-Overview
 This project implements multiple deep learning architectures for
 multi-day human mobility prediction by integrating latent psychological
 needs into sequential modeling frameworks. The models combine behavioral
